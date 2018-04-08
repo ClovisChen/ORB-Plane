@@ -42,3 +42,7 @@ Before all the cmd, **DONOT** forget to download the Vocabulary form the [origin
 * fit the piece wise plane by ransac and find the inlier points.
 * use the inlier points to calculate the plane's height width and thickness (WHT).
 * draw planes in pangolin with WHT of plane
+
+## plane segment
+* [FCN segmentat]{https://github.com/ClovisChen/LearningCNN} ./homo_net
+* refer to [KittiSeg]{https://github.com/MarvinTeichmann/KittiSeg}
