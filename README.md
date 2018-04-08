@@ -44,5 +44,5 @@ Before all the cmd, **DONOT** forget to download the Vocabulary form the [origin
 * draw planes in pangolin with WHT of plane
 
 ## plane segment
-* [FCN segmentat]{https://github.com/ClovisChen/LearningCNN} ./homo_net
-* refer to [KittiSeg]{https://github.com/MarvinTeichmann/KittiSeg}
+* [FCN segmentat](https://github.com/ClovisChen/LearningCNN) ./homo_net
+* refer to [KittiSeg](https://github.com/MarvinTeichmann/KittiSeg)
